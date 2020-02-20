@@ -1,0 +1,2 @@
+picom --config ~/picom.conf &
+feh -bg-scale ~/Pictures/Wallpapers/current.png &

@@ -1,0 +1,45 @@
+! special
+URxvt.foreground:   #ffffff
+URxvt.background:   #1d1b1d
+URxvt.cursorColor:  #93a1a1
+
+! black
+URxvt.color0:       #001e2c
+URxvt.color8:       #657b83
+
+! red
+URxvt.color1:       #dc322f
+URxvt.color9:       #dc322f
+! green
+
+URxvt.color2:       #c6480c
+URxvt.color10:      #c6480c
+
+! yellow
+URxvt.color3:       #00b59c
+URxvt.color11:      #00b59c
+
+! blue
+URxvt.color4:       #268bd2
+URxvt.color12:      #268bd2
+
+! magenta
+URxvt.color5:       #6c71c4
+URxvt.color13:      #6c71c4
+
+! cyan
+URxvt.color6:       #2aa198
+URxvt.color14:      #2aa198
+
+! white
+URxvt.color7:       #93a1a1
+URxvt.color15:      #f6fde3
+
+
+! Appearance
+
+URxvt.scrollBar: false
+URxvt.internalBorder: 30
+
+URxvt.font: xft:xos4 Terminus:style=Regular:size=10
+URxvt.boldFont: xft:xos4 Terminus:style=Bold:size=10
